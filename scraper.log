@@ -1,0 +1,89 @@
+2025-01-21 13:19:45,889 [INFO] ====== WebDriver manager ======
+2025-01-21 13:19:46,810 [INFO] Get LATEST chromedriver version for google-chrome
+2025-01-21 13:19:47,227 [INFO] Get LATEST chromedriver version for google-chrome
+2025-01-21 13:19:47,531 [INFO] Driver [C:\Users\Admin\.wdm\drivers\chromedriver\win64\132.0.6834.83\chromedriver-win32/chromedriver.exe] found in cache
+2025-01-21 13:19:48,593 [INFO] WebDriver initialized.
+2025-01-21 13:19:48,593 [INFO] Scraping https://garethstarratt.framer.media/aws-project
+2025-01-21 13:19:48,593 [INFO] Navigating to https://garethstarratt.framer.media/aws-project
+2025-01-21 13:19:50,850 [INFO] Extracted text: 1036 characters.
+2025-01-21 13:19:50,850 [INFO] Scraped 1036 characters from https://garethstarratt.framer.media/aws-project.
+2025-01-21 13:19:50,850 [INFO] LLM Parsing Initialized
+2025-01-21 13:19:55,147 [INFO] LLM response received.
+2025-01-21 13:19:55,149 [ERROR] Item 0 missing required fields: {'Languages Used'}. Validation failed.
+2025-01-21 13:19:55,149 [ERROR] Validation failed for data from https://garethstarratt.framer.media/aws-project. Skipping.
+2025-01-21 13:19:55,149 [INFO] Scraping https://garethstarratt.framer.media/ml-project
+2025-01-21 13:19:55,149 [INFO] Navigating to https://garethstarratt.framer.media/ml-project
+2025-01-21 13:19:58,118 [INFO] Extracted text: 1093 characters.
+2025-01-21 13:19:58,118 [INFO] Scraped 1093 characters from https://garethstarratt.framer.media/ml-project.
+2025-01-21 13:19:58,118 [INFO] LLM Parsing Initialized
+2025-01-21 13:20:01,875 [INFO] LLM response received.
+2025-01-21 13:20:01,876 [ERROR] Item 0 missing required fields: {'Languages Used'}. Validation failed.
+2025-01-21 13:20:01,876 [ERROR] Validation failed for data from https://garethstarratt.framer.media/ml-project. Skipping.
+2025-01-21 13:20:01,876 [INFO] Scraping https://garethstarratt.framer.media/db-project
+2025-01-21 13:20:01,876 [INFO] Navigating to https://garethstarratt.framer.media/db-project
+2025-01-21 13:20:04,055 [INFO] Extracted text: 1736 characters.
+2025-01-21 13:20:04,055 [INFO] Scraped 1736 characters from https://garethstarratt.framer.media/db-project.
+2025-01-21 13:20:04,055 [INFO] LLM Parsing Initialized
+2025-01-21 13:20:06,669 [INFO] LLM response received.
+2025-01-21 13:20:06,669 [ERROR] Item 0 missing required fields: {'Languages Used'}. Validation failed.
+2025-01-21 13:20:06,670 [ERROR] Validation failed for data from https://garethstarratt.framer.media/db-project. Skipping.
+2025-01-21 13:20:06,670 [INFO] Scraping https://garethstarratt.framer.media/re-visualizer-project
+2025-01-21 13:20:06,670 [INFO] Navigating to https://garethstarratt.framer.media/re-visualizer-project
+2025-01-21 13:20:08,508 [INFO] Extracted text: 1310 characters.
+2025-01-21 13:20:08,508 [INFO] Scraped 1310 characters from https://garethstarratt.framer.media/re-visualizer-project.
+2025-01-21 13:20:08,508 [INFO] LLM Parsing Initialized
+2025-01-21 13:20:13,091 [INFO] LLM response received.
+2025-01-21 13:20:13,091 [ERROR] Item 0 missing required fields: {'Languages Used'}. Validation failed.
+2025-01-21 13:20:13,091 [ERROR] Validation failed for data from https://garethstarratt.framer.media/re-visualizer-project. Skipping.
+2025-01-21 13:20:13,091 [INFO] Scraping https://garethstarratt.framer.media/ma-uav-project
+2025-01-21 13:20:13,091 [INFO] Navigating to https://garethstarratt.framer.media/ma-uav-project
+2025-01-21 13:20:15,041 [INFO] Extracted text: 2177 characters.
+2025-01-21 13:20:15,041 [INFO] Scraped 2177 characters from https://garethstarratt.framer.media/ma-uav-project.
+2025-01-21 13:20:15,041 [INFO] LLM Parsing Initialized
+2025-01-21 13:20:23,434 [INFO] LLM response received.
+2025-01-21 13:20:23,434 [ERROR] Item 0 missing required fields: {'Languages Used'}. Validation failed.
+2025-01-21 13:20:23,434 [ERROR] Validation failed for data from https://garethstarratt.framer.media/ma-uav-project. Skipping.
+2025-01-21 13:20:25,568 [INFO] Driver closed.
+2025-01-21 13:20:25,568 [ERROR] No data extracted.
+2025-01-21 13:21:13,231 [INFO] ====== WebDriver manager ======
+2025-01-21 13:21:13,972 [INFO] Get LATEST chromedriver version for google-chrome
+2025-01-21 13:21:14,268 [INFO] Get LATEST chromedriver version for google-chrome
+2025-01-21 13:21:14,569 [INFO] Driver [C:\Users\Admin\.wdm\drivers\chromedriver\win64\132.0.6834.83\chromedriver-win32/chromedriver.exe] found in cache
+2025-01-21 13:21:15,607 [INFO] WebDriver initialized.
+2025-01-21 13:21:15,607 [INFO] Scraping https://garethstarratt.framer.media/aws-project
+2025-01-21 13:21:15,607 [INFO] Navigating to https://garethstarratt.framer.media/aws-project
+2025-01-21 13:21:17,916 [INFO] Extracted text: 1036 characters.
+2025-01-21 13:21:17,916 [INFO] Scraped 1036 characters from https://garethstarratt.framer.media/aws-project.
+2025-01-21 13:21:17,916 [INFO] LLM Parsing Initialized
+2025-01-21 13:21:25,346 [INFO] LLM response received.
+2025-01-21 13:21:25,346 [INFO] Processed https://garethstarratt.framer.media/aws-project
+2025-01-21 13:21:27,646 [INFO] Scraping https://garethstarratt.framer.media/ml-project
+2025-01-21 13:21:27,646 [INFO] Navigating to https://garethstarratt.framer.media/ml-project
+2025-01-21 13:21:29,766 [INFO] Extracted text: 1093 characters.
+2025-01-21 13:21:29,766 [INFO] Scraped 1093 characters from https://garethstarratt.framer.media/ml-project.
+2025-01-21 13:21:29,766 [INFO] LLM Parsing Initialized
+2025-01-21 13:21:40,201 [INFO] LLM response received.
+2025-01-21 13:21:40,201 [INFO] Processed https://garethstarratt.framer.media/ml-project
+2025-01-21 13:21:41,961 [INFO] Scraping https://garethstarratt.framer.media/db-project
+2025-01-21 13:21:41,961 [INFO] Navigating to https://garethstarratt.framer.media/db-project
+2025-01-21 13:21:43,521 [INFO] Extracted text: 1736 characters.
+2025-01-21 13:21:43,521 [INFO] Scraped 1736 characters from https://garethstarratt.framer.media/db-project.
+2025-01-21 13:21:43,521 [INFO] LLM Parsing Initialized
+2025-01-21 13:21:46,202 [INFO] LLM response received.
+2025-01-21 13:21:46,202 [INFO] Processed https://garethstarratt.framer.media/db-project
+2025-01-21 13:21:47,959 [INFO] Scraping https://garethstarratt.framer.media/re-visualizer-project
+2025-01-21 13:21:47,959 [INFO] Navigating to https://garethstarratt.framer.media/re-visualizer-project
+2025-01-21 13:21:49,383 [INFO] Extracted text: 1310 characters.
+2025-01-21 13:21:49,383 [INFO] Scraped 1310 characters from https://garethstarratt.framer.media/re-visualizer-project.
+2025-01-21 13:21:49,383 [INFO] LLM Parsing Initialized
+2025-01-21 13:21:52,737 [INFO] LLM response received.
+2025-01-21 13:21:52,737 [INFO] Processed https://garethstarratt.framer.media/re-visualizer-project
+2025-01-21 13:21:54,457 [INFO] Scraping https://garethstarratt.framer.media/ma-uav-project
+2025-01-21 13:21:54,457 [INFO] Navigating to https://garethstarratt.framer.media/ma-uav-project
+2025-01-21 13:21:56,292 [INFO] Extracted text: 2177 characters.
+2025-01-21 13:21:56,292 [INFO] Scraped 2177 characters from https://garethstarratt.framer.media/ma-uav-project.
+2025-01-21 13:21:56,292 [INFO] LLM Parsing Initialized
+2025-01-21 13:22:02,148 [INFO] LLM response received.
+2025-01-21 13:22:02,149 [INFO] Processed https://garethstarratt.framer.media/ma-uav-project
+2025-01-21 13:22:05,490 [INFO] Driver closed.
+2025-01-21 13:22:05,503 [INFO] All data saved to scraped_data\results_1737494525.csv.
