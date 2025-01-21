@@ -30,3 +30,4 @@ A demonstration of how to call the microservice can be found at client.py.
 The results of the sample execution can be seen below:
 
 
+![alt text](image.png)
