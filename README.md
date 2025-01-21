@@ -20,10 +20,10 @@ Continually, redistribution of proprietary data gathered through web scraping fo
 1. **Clone the Repository:**
    git clone https://github.com/DOGBALLGNOSIS/autoScraper.git
 
-2: Install Dependencies: **
+2: **Install Dependencies:**
     pip install -r requirements.txt
 
-3: Config OpenAI API Key: **
+3: **Config OpenAI API Key:**
     set OPENAI_API_KEY=your_openai_api_key_here
 
 A demonstration of how to call the microservice can be found at client.py.
